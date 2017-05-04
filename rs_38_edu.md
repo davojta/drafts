@@ -12,7 +12,7 @@
 
 | Photo | Who |
 | ------ | ------ |
-| ![dzianis sheka]() | Денис Шеко - timyo.com, p2p активист  |
+| ![dzianis sheka](https://raw.githubusercontent.com/davojta/drafts/master/d_sheka.jpg) | Денис Шеко - timyo.com, p2p активист  |
 | ![dzmitry varabej](https://grodno.rollingscopes.com/images/speakers/dzmitry_varabei.jpg) | Dzmitry Varabei, epam and rolling scopes member, javascript expert |
 | ![pavel specian]() | Павел Специан - директор Академии Шаг|
 | ![maria kocur](https://raw.githubusercontent.com/davojta/drafts/master/m_kocur.jpg) | Мария Коцур - менеджер-проектов, Академия Шаг |
