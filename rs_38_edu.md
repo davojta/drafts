@@ -12,9 +12,9 @@
 
 | Photo | Who |
 | ------ | ------ |
-|  | Денис Шеко - timyo.com, p2p активист  |
-| Github | Dzmitry Varabei, epam and rolling scopes member, javascript expert |
-| Google Drive | Павел Специан - директор Академии Шаг|
-| OneDrive | Мария Коцур - менеджер-проектов, Академия Шаг |
-| Medium | Силков Андрей - преподаватель в IT-школе Myfreedom |
-| Google Analytics | Зеленков Вадим Викторович - директор образовательного центра ПВТ |
+| (dzianis sheka)[] | Денис Шеко - timyo.com, p2p активист  |
+| (dzmitry varabej)[] | Dzmitry Varabei, epam and rolling scopes member, javascript expert |
+| (pavel specian)[] | Павел Специан - директор Академии Шаг|
+| (maria kocur)[m_kocur.jpg] | Мария Коцур - менеджер-проектов, Академия Шаг |
+| (andrej silkov)[a_silkov.jpg] | Силков Андрей - преподаватель в IT-школе Myfreedom |
+| (vadim zelenkov)[v_zelenkov.jpg] | Зеленков Вадим Викторович - директор образовательного центра ПВТ |
