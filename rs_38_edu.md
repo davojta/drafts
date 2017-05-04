@@ -17,4 +17,4 @@
 | ![pavel specian]() | Павел Специан - директор Академии Шаг|
 | ![maria kocur](https://raw.githubusercontent.com/davojta/drafts/master/m_kocur.jpg) | Мария Коцур - менеджер-проектов, Академия Шаг |
 | ![andrej silkov](https://raw.githubusercontent.com/davojta/drafts/master/a_silkov.jpg) | Силков Андрей - преподаватель в IT-школе Myfreedom |
-| [vadim zelenkov](https://raw.githubusercontent.com/davojta/drafts/master/v_zelenkov.jpg) | Зеленков Вадим Викторович - директор образовательного центра ПВТ |
+| ![vadim zelenkov](https://raw.githubusercontent.com/davojta/drafts/master/v_zelenkov.jpg) | Зеленков Вадим Викторович - директор образовательного центра ПВТ |
