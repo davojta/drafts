@@ -12,6 +12,7 @@
 
 | Photo | Who |
 | ------ | ------ |
+| ![elena krukovskaja](https://raw.githubusercontent.com/davojta/drafts/master/e_krukovskaja.jpg) |  - Director of Offshore Operations в Exadel  |
 | ![dzianis sheka](https://raw.githubusercontent.com/davojta/drafts/master/d_sheka.jpg) | Денис Шеко - timyo.com, p2p активист  |
 | ![dzmitry varabej](https://grodno.rollingscopes.com/images/speakers/dzmitry_varabei.jpg) | Dzmitry Varabei, epam and rolling scopes member, javascript expert |
 | ![pavel specian]() | Павел Специан - директор Академии Шаг|
